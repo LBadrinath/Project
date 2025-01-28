@@ -2,6 +2,7 @@
 #Shop Savvy
 This project allows people to get personalized shopping assistance and helps to find deals
 
+
 #Badrinath
 ##Personalized Shopping Assistance
 ##Product Search and Discovery
