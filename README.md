@@ -7,8 +7,8 @@ This project allows people to get personalized shopping assistance and helps to 
 Personalized Shopping Assistance<br>
 Product Search and Discovery
 # Pavan
-Deal Alerts and Notifications
+Deal Alerts and Notifications<br>
 Price History and Trends
 # Deepika
-Wishlist and Favorites
+Wishlist and Favorites<br>
 Social Shopping and Sharing
