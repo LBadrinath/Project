@@ -4,7 +4,7 @@ This project allows people to get personalized shopping assistance and helps to 
 
 
 # Badrinath
-Personalized Shopping Assistance
+Personalized Shopping Assistance<br>
 Product Search and Discovery
 # Pavan
 Deal Alerts and Notifications
